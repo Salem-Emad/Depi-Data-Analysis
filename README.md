@@ -7,6 +7,7 @@ DEPI Graduation Project – Data Analysis Track
 - Mohamed Hossam
 - Rana Osama
 - Dalia El-Barbary
+- Mera Mouris 
 
 ## Description
 This project analyzes how MTA ridership recovered after COVID-19 using the MTA Daily Ridership dataset (March 2020 – October 2024). It also forecasts next month's ridership and presents the results in a Power BI dashboard.
